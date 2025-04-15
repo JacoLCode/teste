@@ -24,8 +24,6 @@ Criar um sistema robusto de helpdesk que auxilie usuários e técnicos no regist
 ---
 
 # Tecnologias Utilizadas
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: Node.js / Python (definir conforme stack)
 - **Banco de Dados**: MySQL ou PostgreSQL
 - **Frameworks e Bibliotecas**: Bootstrap, Express / Flask
 - **Ferramentas**: Git, GitHub, Postman, Figma
@@ -36,7 +34,6 @@ Criar um sistema robusto de helpdesk que auxilie usuários e técnicos no regist
 # Instalação e Execução
 
 ### Pré-requisitos
-- Node.js ou Python instalados
 - Banco de dados configurado
 - Git instalado
 
