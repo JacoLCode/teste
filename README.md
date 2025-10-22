@@ -22,8 +22,7 @@
 10. [Manual de Instalação (Quickstart)](#manual-de-instalação-quickstart)  
 11. [Como Contribuir](#como-contribuir)  
 12. [Equipe](#equipe)  
-13. [Links Úteis](#links-úteis)  
-14. [Licença](#licença)
+
 
 ---
 
@@ -134,18 +133,3 @@ Uma tarefa é considerada finalizada quando:
 | **Versionamento** | Git / GitHub |
 
 ---
-
-## ⚡ Manual de Instalação (Quickstart)
-
-### 🧱 Pré-requisitos
-- [.NET SDK](https://dotnet.microsoft.com/en-us/download)  
-- [Node.js (v16+)](https://nodejs.org/)  
-- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)  
-- [Git](https://git-scm.com/)  
-
----
-
-### 📥 Clone o Repositório
-```bash
-git clone https://github.com/SEU_USUARIO/neoDesk.git
-cd neoDesk
